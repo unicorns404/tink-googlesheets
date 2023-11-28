@@ -3,14 +3,15 @@
 
 **List of important notes**
 
-[Markdown Reference - https://commonmark.org/help/](https://commonmark.org/help/)
++ [Markdown Reference - https://commonmark.org/help/](https://commonmark.org/help/)
++ [Markdown Cheatsheet - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
++ [How to write a good README.md - https://www.codecademy.com/courses/learn-git/articles/how-to-write-a-good-readme-for-your-project](https://www.codecademy.com/courses/learn-git/articles/how-to-write-a-good-readme-for-your-project)
 
-1. **Two things**
-2. *One important*
+1. **Bold**
+2. *Emphasized*
 ---
 # This is a H1 heading
-```
-# code block
+``` # code block
 print '3 backticks or'
 print 'indent 4 spaces'
 ```
